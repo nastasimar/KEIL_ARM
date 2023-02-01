@@ -1,0 +1,1 @@
+void InitUART2(int freq, int Baud);
